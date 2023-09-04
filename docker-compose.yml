@@ -1,0 +1,14 @@
+version: '3'
+services:
+  rest_api:
+    build: 
+      context: ./rest-api
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+  react_frontend:
+    build:
+      context: ./react-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"

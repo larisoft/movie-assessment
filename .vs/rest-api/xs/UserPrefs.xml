@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{ADF4582A-79F8-4C67-90A9-ED1FE7519257}|Default">
+  <MonoDevelop.Ide.ItemProperties.rest-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="rest-api/Controllers/MovieController.cs">
+    <Files>
+      <File FileName="rest-api/Controllers/HilaryController.cs" Line="25" Column="38" IsPinned="True" />
+      <File FileName="rest-api/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="rest-api/appsettings.json" />
+      <File FileName="rest-api/models/Movie.cs" Line="1" Column="1" />
+      <File FileName="rest-api/appsettings.Development.json" />
+      <File FileName="rest-api/Program.cs" Line="16" Column="1" />
+      <File FileName="rest-api/Startup.cs" Line="34" Column="10" />
+      <File FileName="rest-api/models/Hilary.cs" Line="10" Column="15" />
+      <File FileName="rest-api/models/ApplicationDbContext.cs" />
+      <File FileName="rest-api/WeatherForecast.cs" />
+      <File FileName="rest-api/services/HttpService.cs" Line="26" Column="17" />
+      <File FileName="rest-api/Controllers/MovieController.cs" Line="60" Column="1" />
+      <File FileName="rest-api/interfaces/IHttpService.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rest-api" expanded="True">
+            <Node name="rest-api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MovieController.cs" selected="True" />
+              </Node>
+              <Node name="services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
