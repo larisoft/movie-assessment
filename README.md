@@ -1,4 +1,4 @@
-A Simple application that demonstrates reading movies from OMDB Api, caching the last 10 results, rendering the results in a react list component, and displaying it in a displayMovie component when a movie is selected. The application is fully containerized and all services can be run at the same time with a simple 'docker-compose up --build'.
+A Simple C# .NET core/React application that demonstrates reading movies from OMDB Api, caching the last 10 results, rendering the results in a react list component, and displaying it in a displayMovie component when a movie is selected. The application is fully containerized and all services can be run at the same time with a simple 'docker-compose up --build'.
 
 <img width="1413" alt="image" src="https://github.com/larisoft/movie-assessment/assets/11951443/90092ed5-574a-44df-b2fc-e7f87760152b">
 <img width="1413" alt="image" src="https://github.com/larisoft/movie-assessment/assets/11951443/466c5415-d247-40dd-8398-3b4e477c625c">
