@@ -20,7 +20,7 @@ namespace rest_api.Controllers
     {
         private readonly string OMDB_URL;
         private readonly IHttpService _httpService;
-        private readonly FileStorageService _fileStorageService;
+        internal FileStorageService _fileStorageService;
 
         public MovieController(
             IConfiguration configuration,

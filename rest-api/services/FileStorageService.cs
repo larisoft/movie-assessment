@@ -15,7 +15,7 @@ namespace rest_api.services
             this.filePath = filePath;
         }
 
-        public List<Movie> ReadMoviesFromFile()
+        public virtual List<Movie> ReadMoviesFromFile()
         {
             try
             {
