@@ -1,4 +1,8 @@
-#Simple application that demonstrates reading movies from OMDB Api, caching the last 10 results, rendering the restuls in a react list component, and displaying it in a displayMovie component when a movie is selected.
+A Simple application that demonstrates reading movies from OMDB Api, caching the last 10 results, rendering the results in a react list component, and displaying it in a displayMovie component when a movie is selected. 
+
+<img width="1413" alt="image" src="https://github.com/larisoft/movie-assessment/assets/11951443/90092ed5-574a-44df-b2fc-e7f87760152b">
+<img width="1413" alt="image" src="https://github.com/larisoft/movie-assessment/assets/11951443/466c5415-d247-40dd-8398-3b4e477c625c">
+
 
 The application is fully containerized and both frontend and backend can be run with a simple 'docker-compose up --build'.
 
