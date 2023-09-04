@@ -6,7 +6,7 @@ A Simple application that demonstrates reading movies from OMDB Api, caching the
 
 
 #To run full application 
-1. https://github.com/larisoft/movie-assessment.git
+1. git clone https://github.com/larisoft/movie-assessment.git
 2. cd movie-assessment
 3. docker-compose up --build 
 4. Visit http://localhost:3000 (backend should be running already at http://localhost:5000)
