@@ -5727,11 +5727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hilaryokeke/Projects/rest-api/rest-api/rest-api.csproj",
+      "projectUniqueName": "/Users/hilaryokeke/Projects/rest-api copy/rest-api/rest-api.csproj",
       "projectName": "rest-api",
-      "projectPath": "/Users/hilaryokeke/Projects/rest-api/rest-api/rest-api.csproj",
+      "projectPath": "/Users/hilaryokeke/Projects/rest-api copy/rest-api/rest-api.csproj",
       "packagesPath": "/Users/hilaryokeke/.nuget/packages/",
-      "outputPath": "/Users/hilaryokeke/Projects/rest-api/rest-api/obj/",
+      "outputPath": "/Users/hilaryokeke/Projects/rest-api copy/rest-api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hilaryokeke/.nuget/NuGet/NuGet.Config"
